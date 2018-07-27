@@ -1,0 +1,1 @@
+E:\code\WPF\Learn\ReMusic\ReMusic\ReMusic.csproj;x86
